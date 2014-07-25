@@ -1,0 +1,2 @@
+*.o
+./apt-resolve-dep
